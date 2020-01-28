@@ -1,1 +1,1 @@
-This is my First Chatting App using Flask and JavaScripts
+This is my First Simple Chatting App using Flask and JavaScripts
